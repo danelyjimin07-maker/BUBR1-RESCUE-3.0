@@ -1,0 +1,21 @@
+rank,candidate,pathway,direct_BUBR1_evidence_25,N1002K_mechanistic_fit_20,mechanistic_evidence_15,functional_cellular_evidence_15,repurposing_feasibility_10,clinical_safety_knowledge_10,orthogonality_5,total_score,decision,confidence,note
+1,Niacin (nicotinic acid),NAD+ / SIRT2,18,18,14,12,10,9,3,84,LEAD,Moderate-High,Primary repurposing hypothesis; BUBR1 link is indirect through NAD+/SIRT2.
+2,NMN,NAD+ / SIRT2,25,18,15,15,4,4,2,83,MECHANISTIC BENCHMARK,High mechanistic / Moderate translational,Direct evidence that NMN can increase BubR1 abundance in vivo through NAD+/SIRT2-linked biology.
+3,Arimoclomol,HSF1 / HSP proteostasis,8,19,15,13,10,10,4,79,ORTHOGONAL LEAD,Moderate,Strong proteostasis rationale; no N1002K-specific rescue evidence.
+4,Nicotinamide riboside (NR),NAD+ precursor,14,17,13,12,7,8,4,75,BACKUP,Moderate,Human NAD+ evidence; no direct BUBR1 rescue evidence.
+5,Geranylgeranylacetone (teprenone),HSP70 induction,4,16,12,10,8,9,5,64,BACKUP,Low-Moderate,HSP70 induction; no direct BUBR1 evidence.
+6,Bimoclomol,HSF1 / HSP proteostasis,4,16,13,10,7,8,5,63,BACKUP,Low-Moderate,Mechanistically similar heat-shock co-induction; weaker translational position than arimoclomol.
+7,TUDCA,Proteostasis / ER stress,2,14,11,9,8,10,5,59,EXPLORATORY,Low-Moderate,General proteostasis support; no direct BUBR1 evidence.
+8,4-PBA,Proteostasis comparator,2,13,9,8,9,10,4,55,COMPARATOR,Low-Moderate,Useful comparator; classical chemical-chaperone interpretation is debated.
+9,Resveratrol,Sirtuin-related,2,9,8,7,7,10,5,48,LOW,Low,Sirtuin activation claims are context-dependent and not a clean SIRT2 strategy.
+10,Isonicotinamide,Sirtuin modulation,1,8,8,7,5,7,5,41,LOW,Low,Experimental sirtuin-modulation concept with limited translational support.
+11,Trehalose,Autophagy / proteostasis,1,9,8,8,6,7,5,44,LOW,Low,Broad proteostasis rationale; weak BUBR1 specificity.
+12,Spermidine,Autophagy,1,8,8,8,6,7,5,43,LOW,Low,Broad autophagy effects; weak target specificity.
+13,Rapamycin,mTOR / autophagy,1,7,9,8,5,7,3,40,DROP,Low,Mechanistically broad and not specific enough for a rescue hypothesis.
+14,Metformin,Metabolic stress / AMPK,1,6,8,7,7,7,2,38,DROP,Low,Too indirect relative to BUBR1 stabilization.
+15,Celastrol,Heat-shock response,1,10,10,7,2,2,5,37,DROP,Low,Proteostasis interest but translational/toxicity concerns.
+16,Pterostilbene,Sirtuin-related,1,6,6,5,7,7,3,35,DROP,Low,Indirect and weak BUBR1 relevance.
+17,Nicotinamide,NAD+ pathway / sirtuin feedback,3,6,6,5,6,8,-4,30,DROP,Low,Can support NAD+ but also inhibit sirtuins; mechanistically conflicted for a SIRT2-dependent hypothesis.
+18,Bortezomib,Proteasome inhibition,3,8,5,5,2,5,-6,22,DROP,Low,May increase protein abundance nonspecifically; poor fit and safety trade-offs.
+19,MG132,Proteasome inhibition (research),3,7,4,4,0,0,-4,14,RESEARCH ONLY,Low,"Research tool, not a repurposing candidate."
+20,Geldanamycin,HSP90 inhibition,0,0,2,1,0,0,2,5,CONTRA-MECHANISTIC,High negative-control confidence,HSP90 inhibition is expected to worsen stability of unstable BUBR1 missense proteins.
