@@ -1,0 +1,12 @@
+strategy,claim_step,evidence_strength,what_the_evidence_actually_shows,source
+Niacin,Niacin → increased cellular NAD+,DIRECT,Human cells; NAPRT-dependent increase in NAD+,"Hara et al. 2007, PMID 17604275"
+Niacin,NAD+ → supports SIRT2 activity,ESTABLISHED BIOCHEMICAL RELATIONSHIP,SIRT2 is an NAD+-dependent deacetylase,"North et al. 2014, PMID 24825348"
+Niacin,SIRT2 → increased BUBR1 stability/abundance,DIRECT FOR BUBR1,SIRT2 maintains BUBR1 deacetylation; SIRT2 overexpression increased BubR1,"North et al. 2014, PMID 24825348"
+Niacin,NMN/NAD+ support → increased BubR1 abundance,"DIRECT FOR PATHWAY, NOT NIACIN",NMN increased BubR1 abundance in vivo,"North et al. 2014, PMID 24825348"
+Niacin,Niacin → increased BUBR1 in MVA/N1002K,ABSENT,No direct study identified,Project gap
+Niacin,Increased BUBR1 → functional checkpoint rescue in N1002K,ABSENT,No N1002K-specific functional experiment,Project gap
+Arimoclomol,Arimoclomol → enhanced heat-shock response / HSP induction,DIRECT,Human neuronal-cell evidence; HSF1/HSP co-induction,PMID 27273088
+Arimoclomol,MVA BUBR1 missense variants → dependence on HSP90,DIRECT IN DISEASE-RELEVANT VARIANTS,I909T/L1012P stability worsened by HSP90 inhibition,PMCID PMC2887387
+Arimoclomol,Arimoclomol → stabilization of BUBR1,ABSENT,No direct BUBR1 study identified,Project gap
+Arimoclomol,Arimoclomol → rescue of N1002K,ABSENT,No N1002K-specific study,Project gap
+Arimoclomol,Arimoclomol has human clinical use,DIRECT REGULATORY,FDA-approved for NPC with miglustat; mechanism of clinical effect in NPC remains unknown,FDA Miplyffa label 2024
