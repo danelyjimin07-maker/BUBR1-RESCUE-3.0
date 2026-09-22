@@ -221,11 +221,34 @@ BUBR1-RESCUE-3.0/
 - U.S. FDA. **Miplyffa (arimoclomol) approval for Niemann-Pick disease type C.** 2024.
 
 ---
+## Participant
 
+**Hugging Face participant:** `Whoislily77`  
+**Team / Display Name:** `BUBR1-RESCUE`  
+**GitHub repository owner:** `danelyjimin07-maker`
+
+## AI assistance disclosure
+
+OpenAI ChatGPT, Plus plan, was used for literature organization,
+hypothesis structuring, drafting, code/document preparation, and
+interpretation support.
+
+The account-level "Improve the model for everyone" setting was enabled
+during the analysis.
+
+Raw FASTQ files and the complete genome-wide VCF were not uploaded to
+ChatGPT. Genomic analysis was performed locally, and only targeted,
+non-reconstructive variant summaries and selected annotation outputs
+were provided for assistance.
+
+AI-generated outputs were treated as supportive material and were
+independently checked against primary literature, public variant
+databases, and the challenge data before inclusion in the final
+interpretation.
 ## Status
 
-**BUBR1-RESCUE 3.0 is a second-submission candidate.**  
-The original submission remains unchanged.
+**BUBR1-RESCUE 3.0 is prepared for Submission 2 of Track 2.**
 
-This repository represents ongoing refinement designed to improve scientific rigor, transparency, reproducibility, and scalability before any new hackathon submission is made.
-
+This version extends the original submission with a reproducible
+20-candidate screen, evidence-strength grading, the Variant–Rescue
+framework, and explicit Go/No-Go validation criteria.
